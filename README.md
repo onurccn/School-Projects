@@ -10,6 +10,6 @@ Consists from links to school projects/homework repositories within organization
 - [CSE 222 Data Structures and Algorithms](https://github.com/gtu-homeworks-and-projects/CSE-222-Data-Structures-and-Algorithms-2018-Spring)
 
 ## GTU 1st Year (2016 Fall & 2017 Spring)
-- [CSE 101-107 Introduction To Computer Engineering (Lab.)] (https://github.com/gtu-homeworks-and-projects/CSE-101-107-Introduction-To-Computer-Engineering-2016-Fall)
-- [CSE 102-107 Computer Programming (Lab.)] (https://github.com/gtu-homeworks-and-projects/CSE-102-107-Computer-Programming-2017-Spring)
+- [CSE 101-107 Introduction To Computer Engineering (Lab.)](https://github.com/gtu-homeworks-and-projects/CSE-101-107-Introduction-To-Computer-Engineering-2016-Fall)
+- [CSE 102-107 Computer Programming (Lab.)](https://github.com/gtu-homeworks-and-projects/CSE-102-107-Computer-Programming-2017-Spring)
 
