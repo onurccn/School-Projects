@@ -1,5 +1,5 @@
 # [School-Projects](https://github.com/gtu-homeworks-and-projects)
-Consists from links to school projects/homework repositories within organization.
+Consists links to school project/homework repositories within organization.
 ## GTU 3rd Year (2018 Fall & 2019 Spring)
 - [CSE 321 Introduction to Algorithm Design](https://github.com/gtu-homeworks-and-projects/CSE-321-Introduction-to-Algorithm-Design-2018-Fall)
 - [CSE 331 Computer Organizations](https://github.com/gtu-homeworks-and-projects/CSE-331-Computer-Organizations-2018-Fall)
